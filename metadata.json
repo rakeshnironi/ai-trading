@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Trading",
+  "description": "Autonomous Trading & Paper Trading App using Machine Learning with Angel One SmartAPI market data, LSTM predictions, technical indicators, and WhatsApp alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
